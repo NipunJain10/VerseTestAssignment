@@ -1,0 +1,10 @@
+ManifestFileVersion: 0
+CRC: 1875699185
+AssetBundleManifest:
+  AssetBundleInfos:
+    Info_0:
+      Name: customisation
+      Dependencies: {}
+    Info_1:
+      Name: game
+      Dependencies: {}
